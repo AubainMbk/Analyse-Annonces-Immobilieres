@@ -55,6 +55,7 @@ o	Les principales priorités pour les professionnels à la recherche d’un nouv
 ![image](https://github.com/user-attachments/assets/210ca915-fb02-4c05-b8c1-ce0ee3217852)
 
 
+
 # Recommandations Business:
 
 •	Optimiser les investissements : Focaliser les investissements dans les zones à fort revenu par code postal.
