@@ -1,5 +1,6 @@
 # Analyse des Résultats d’une Enquête sur les Annonces Immobilières et les Revenus
 
+
 ![373263869-210ca915-fb02-4c05-b8c1-ce0ee3217852](https://github.com/user-attachments/assets/94318d07-93ca-421f-ab6f-a88c0fcd7e06)
 
 
