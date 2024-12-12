@@ -2,6 +2,7 @@
 
 ![373263869-210ca915-fb02-4c05-b8c1-ce0ee3217852](https://github.com/user-attachments/assets/94318d07-93ca-421f-ab6f-a88c0fcd7e06)
 
+
 ## Contexte du Projet
 Ce projet d’analyse est basé sur les données des annonces immobilières et des revenus associés. L’objectif est d’examiner les tendances en matière de prix des logements par nombre de chambres, de revenus par code postal, et d’analyser les variations de revenus au cours de l’année. Grâce à une approche analytique complète, cette étude permet de mieux comprendre les dynamiques du marché immobilier et de formuler des recommandations stratégiques pour les investisseurs et les agences immobilières.
 
